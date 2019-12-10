@@ -1,4 +1,3 @@
-# pyspark-on-aws-emr
  ## PySpark en AWS EMR
 
 # Apache Spark for a Machine Learning Engineer
